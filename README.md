@@ -28,7 +28,7 @@ Each language has its own folder with dedicated exercises, notes, and examples.
 
 ## 📁 Repository Structure
 
-learning_programming_languages/
+learning_programming_languages
  │
  ├── CSharp/
  │ ├── basics/
