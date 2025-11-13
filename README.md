@@ -20,7 +20,7 @@ This repository exists to:
 - **C++**
 - **Java**
 - **C#**
-- **Python** (review & intermediate topics)
+- **Python**
 
 Each language has its own folder with dedicated exercises, notes, and examples.
 
