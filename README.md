@@ -28,31 +28,7 @@ Each language has its own folder with dedicated exercises, notes, and examples.
 
 ## 📁 Repository Structure
 
-learning_programming_languages/\n
- │
- ├── CSharp/
- │ ├── basics/
- │ ├── oop/
- │ ├── exercises/
- │ └── notes.md
- │
- ├── Python/
- │ ├── basics/
- │ ├── algorithms/
- │ ├── exercises/
- │ └── notes.md
- │
- ├── Java/
- | ├── basics/
- | ├── oop/
- | ├── small-projects/
- | └── notes.md
- |
- └── C++/
-   ├── basics/
-   ├── stl/
-   ├── oop/
-   └── notes.md
+learning_programming_languages
 
 ---
 
