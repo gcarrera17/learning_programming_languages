@@ -1,0 +1,48 @@
+# -----------------------------
+# Global OS/File System Junk
+# -----------------------------
+.DS_Store
+Thumbs.db
+
+# -----------------------------
+# IDE / Editor Specific
+# -----------------------------
+.vscode/
+.idea/
+*.code-workspace
+
+# -----------------------------
+# Compiled Binaries / Buiid Artifacts
+# -----------------------------
+
+# C++ Binaries
+*.exe
+*.o
+*.obj
+*.out
+
+# Java compiled class files
+*.class
+
+# C# / .NET compiled files
+bin/
+obj/
+*.dll
+*.pdb
+
+# Python cached files
+__pycache__/
+*.pyc
+
+# -----------------------------
+# Logs and Temporary Files
+# -----------------------------
+*.log
+*.tmp
+
+# -----------------------------
+# Backup Files
+# -----------------------------
+*.bak
+*.old
+*~
