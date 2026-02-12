@@ -6,20 +6,35 @@ The goal is to deepen my understanding of modern C++ and strengthen fundamental 
 ---
 
 ## 📚 Topics Covered
+
+### 📘 Core Foundations
 - Syntax Review  
 - STL Containers  
-- Memory Management  
-- Pointers & References  
+- Pointers & References
+- Memory Management
+
+### 🧠 Modern C++ Mastery
+- RAII & Rule of 5/0
+- Move semantics & ownership
+- Error handling (exceptions vs return codes)
+
+### 🧩 Algorithms & Practice
 - Algorithms & Practice Exercises  
+
+### ⚙️ Systems & Performance
+- Concurrency (later)
+
+### 🚀 Integration
+- Mini-projects (to integrate)
 
 ---
 
 ## ✔ Progress
-- [x] Syntax Review  
-- [ ] STL Containers  
-- [ ] Memory Management  
-- [ ] Pointers & References  
-- [ ] Practice small algorithms  
+- [ ] Core Foundations  
+- [ ] Modern C++ Mastery  
+- [ ] Algorithms & Practice  
+- [ ] Systems & Performance  
+- [ ] Integration  
 
 ---
 
